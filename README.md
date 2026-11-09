@@ -25,11 +25,11 @@
 
 ### 📊 Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveen5975&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen5975&theme=radical&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Praveen5975&theme=radical&hide_border=true" alt="streak" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Praveen5975&show_icons=true&theme=radical&hide_border=true" alt="stats" />
 </p>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen5975&layout=compact&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Praveen5975&layout=compact&theme=radical&hide_border=true" alt="languages" />
 </p>
 
 ### 📈 Activity graph
