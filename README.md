@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/assets/header.svg" width="100%" alt="Praveen Balaji G - Cleared for takeoff"/>
+<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/header.svg" width="100%" alt="Praveen Balaji G - Cleared for takeoff"/>
 
 <p align="center">
   <a href="https://praveen-flight.vercel.app"><img src="https://img.shields.io/badge/✈️_Portfolio-Visit_my_hangar-f97316?style=for-the-badge&labelColor=0b0f1f"/></a>
