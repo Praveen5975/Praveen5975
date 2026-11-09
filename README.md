@@ -57,6 +57,6 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/output/github-snake-dark.svg" width="100%" alt="snake"/>
+<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/github-snake-dark.svg" width="100%" alt="snake"/>
 
-<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/assets/footer.svg" width="100%" alt="Wheels down"/>
+<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/footer.svg" width="100%" alt="Wheels down"/>
