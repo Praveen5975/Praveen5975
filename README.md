@@ -40,11 +40,11 @@
 
 | Mission | Where |
 |---|---|
-| 🛰️ 5G Hackathon | VIT |
-| 🤖 SmartAIthon | — |
-| 🇪🇺 EU-REKA | — |
-| 🌍 SDG Ideathon | Sairam |
-| 🛡️ Cyber Sentinel.AI | — |
+| 🛰️ 5G Hackathon | VIT, Chennai |
+| 🤖 SmartAIthon | Online |
+| 🇪🇺 EU-REKA | Pune |
+| 🌍 SDG Ideathon | Sairam, Chennai |
+| 🛡️ Cyber Sentinel.AI | Sairam, Chennai |
 
 ## 📡 Telemetry
 
