@@ -58,8 +58,8 @@
   <img src="https://ghchart.rshah.org/fbbf24/Praveen5975" width="95%" alt="contributions"/>
 </p>
 
-## 🐍 Contribution Snake
+## 🛰️ Live Radar
 
-<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/github-snake-dark.svg" width="100%" alt="snake"/>
+<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/assets/radar.svg" width="100%" alt="Radar and departure board"/>
 
-<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/footer.svg" width="100%" alt="Wheels down"/>
+<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/assets/footer.svg" width="100%" alt="Wheels down"/>
