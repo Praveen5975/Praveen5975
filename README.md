@@ -1,42 +1,62 @@
-<h1 align="center">Hey, I'm Praveen Balaji 👋</h1>
+<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/assets/header.svg" width="100%" alt="Praveen Balaji G - Cleared for takeoff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=CCE+Student+%40+Sri+Sairam+Engineering+College;Software+%26+AI%2FML+Builder;Solving+real-world+problems;Open+to+Internships" alt="Typing SVG" />
+  <a href="https://praveen-flight.vercel.app"><img src="https://img.shields.io/badge/✈️_Portfolio-Visit_my_hangar-f97316?style=for-the-badge&labelColor=0b0f1f"/></a>
+  <a href="https://www.linkedin.com/in/praveenbalaji-g2008/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1f"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Praveen5975&style=for-the-badge&color=fbbf24&label=PROFILE+VIEWS&labelColor=0b0f1f"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praveen5975&style=for-the-badge&color=blue" />
-  <a href="https://www.linkedin.com/in/praveenbalaji-g2008/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://praveen-flight.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FBBF24&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;AI%2FML+%2B+IoT+%2B+5G+%E2%80%94+all+in+one+cockpit;Looking+for+an+internship+runway+%F0%9F%9B%AB" alt="typing"/>
 </p>
 
-### 🎓 About me
-- 🏫 B.E. Computer & Communication Engineering @ Sri Sairam Engineering College, Chennai
-- 🤖 Focused on software and AI/ML, with IoT and 5G as bonus skills
-- 🔍 Looking for Software / AI-ML / Data Analyst internships
+---
 
-### 🛠️ Tech stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## 🧭 Pilot Profile
 
-### 📊 Stats
+```text
+ NAME        Praveen Balaji G
+ PROGRAM     B.E. Computer & Communication Engineering (2nd year)
+ BASE        Sri Sairam Engineering College, Chennai
+ MISSION     Software Engineer / AI-ML / Data Analyst Internship
+ FOCUS       Software + AI first, IoT & 5G as bonus avionics
+ STATUS      🟢 Open to opportunities
+```
+
+## 🛠️ Instrument Panel
+
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Praveen5975&theme=radical&hide_border=true" alt="streak" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Praveen5975&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
+
+## 🏆 Flight Log
+
+| Mission | Where |
+|---|---|
+| 🛰️ 5G Hackathon | VIT |
+| 🤖 SmartAIthon | — |
+| 🇪🇺 EU-REKA | — |
+| 🌍 SDG Ideathon | Sairam |
+| 🛡️ Cyber Sentinel.AI | — |
+
+## 📡 Telemetry
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Praveen5975&layout=compact&theme=radical&hide_border=true" alt="languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Praveen5975&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f1f" height="165" alt="stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Praveen5975&theme=radical&hide_border=true&background=0b0f1f" height="165" alt="streak"/>
 </p>
 
-### 📈 Activity graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen5975&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen5975&theme=react-dark&hide_border=true&area=true&bg_color=0b0f1f&color=fbbf24&line=f97316&point=ffffff" width="100%" alt="activity"/>
 
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Praveen5975&theme=onedark&no-frame=true&row=1&column=7" width="100%"/>
+## 🐍 Contribution Snake
 
-### 🐍 Contribution snake
-<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/output/github-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/output/github-snake-dark.svg" width="100%" alt="snake"/>
+
+<img src="https://raw.githubusercontent.com/Praveen5975/Praveen5975/main/assets/footer.svg" width="100%" alt="Wheels down"/>
