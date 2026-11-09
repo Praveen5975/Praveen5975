@@ -49,11 +49,14 @@
 ## 📡 Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Praveen5975&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f1f" height="165" alt="stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Praveen5975&theme=radical&hide_border=true&background=0b0f1f" height="165" alt="streak"/>
+  <img src="https://img.shields.io/github/followers/Praveen5975?style=for-the-badge&logo=github&labelColor=0b0f1f&color=f97316"/>
+  <img src="https://img.shields.io/badge/Repositories-9-fbbf24?style=for-the-badge&logo=github&labelColor=0b0f1f"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge&labelColor=0b0f1f"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen5975&theme=react-dark&hide_border=true&area=true&bg_color=0b0f1f&color=fbbf24&line=f97316&point=ffffff" width="100%" alt="activity"/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/fbbf24/Praveen5975" width="95%" alt="contributions"/>
+</p>
 
 ## 🐍 Contribution Snake
 
